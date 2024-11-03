@@ -1,0 +1,880 @@
+02/11/2024 21:23;Colheita Shopee;+10
+02/11/2024 21:23;Recompensa da Missão Diária;+5
+02/11/2024 21:22;Recompensas Diárias;+1
+02/11/2024 15:07;Recompensa da Missão Diária;+1
+02/11/2024 15:06;Recompensa da Missão Diária;+1
+02/11/2024 15:06;Recompensas Diárias;+1
+02/11/2024 06:30;Recompensa da Missão Diária;+1
+02/11/2024 06:30;Shopee Pega Brinde;+1
+02/11/2024 06:29;Recompensa da Missão Diária;+1
+02/11/2024 06:28;Check-in diario;+5
+01/11/2024 21:24;Recompensas Diárias;+2
+01/11/2024 13:37;Recompensa da Missão Diária;+5
+01/11/2024 13:35;Recompensas Diárias;+2
+01/11/2024 13:02;Recompensa da Missão Diária;+1
+01/11/2024 06:53;Recompensa da Missão Diária;+1
+01/11/2024 06:53;Recompensa da Missão Diária;+1
+01/11/2024 06:52;Shopee Pega Brinde;+1
+01/11/2024 06:52;Shopee Pega Brinde;+1
+01/11/2024 06:51;Shopee Pega Brinde;+1
+01/11/2024 06:51;Recompensa da Missão Diária;+1
+01/11/2024 06:51;Recompensa da Missão Diária;+1
+01/11/2024 06:51;Check-in diario;+1
+31/10/2024 19:38;Recompensas Diárias;+1
+31/10/2024 19:38;Recompensas Diárias;-2
+31/10/2024 19:23;Recompensas Diárias;+1
+31/10/2024 19:23;Recompensas Diárias;-2
+31/10/2024 19:23;Recompensas Diárias;+1
+31/10/2024 19:23;Recompensas Diárias;-2
+31/10/2024 19:23;Recompensas Diárias;+1
+31/10/2024 19:23;Recompensas Diárias;-2
+31/10/2024 19:23;Recompensas Diárias;+1
+31/10/2024 19:23;Recompensas Diárias;-2
+31/10/2024 19:23;Recompensas Diárias;+1
+31/10/2024 19:23;Recompensas Diárias;-2
+31/10/2024 19:23;Recompensas Diárias;+1
+31/10/2024 19:23;Recompensas Diárias;-2
+31/10/2024 19:05;Recompensas Diárias;+1
+31/10/2024 19:05;Recompensas Diárias;-2
+31/10/2024 19:05;Recompensas Diárias;+1
+31/10/2024 19:05;Recompensas Diárias;-2
+31/10/2024 19:05;Recompensas Diárias;+1
+31/10/2024 19:05;Recompensas Diárias;-2
+31/10/2024 19:05;Recompensas Diárias;+1
+31/10/2024 18:57;Recompensas Diárias;+1
+31/10/2024 18:57;Recompensas Diárias;-2
+31/10/2024 18:56;Recompensas Diárias;+1
+31/10/2024 18:56;Recompensas Diárias;-2
+31/10/2024 18:52;Recompensas Diárias;+1
+31/10/2024 18:52;Recompensas Diárias;-2
+31/10/2024 18:50;Recompensas Diárias;+1
+31/10/2024 18:50;Recompensas Diárias;-2
+31/10/2024 18:49;Recompensas Diárias;+1
+31/10/2024 18:49;Recompensas Diárias;-2
+31/10/2024 18:49;Recompensas Diárias;+1
+31/10/2024 18:49;Recompensas Diárias;-2
+31/10/2024 18:43;Recompensa da Missão Diária;+5
+31/10/2024 18:33;Recompensas Diárias;+1
+31/10/2024 18:33;Recompensas Diárias;-2
+31/10/2024 18:32;Recompensas Diárias;+1
+31/10/2024 18:32;Recompensas Diárias;-2
+31/10/2024 18:32;Recompensas Diárias;+1
+31/10/2024 18:32;Recompensas Diárias;-2
+31/10/2024 18:32;Recompensas Diárias;+1
+31/10/2024 18:32;Recompensas Diárias;-2
+31/10/2024 18:32;Recompensas Diárias;+1
+31/10/2024 18:32;Recompensas Diárias;-2
+31/10/2024 18:32;Recompensas Diárias;+1
+31/10/2024 18:32;Recompensas Diárias;-2
+31/10/2024 18:13;Recompensas Diárias;+1
+31/10/2024 18:13;Recompensas Diárias;-2
+31/10/2024 18:13;Recompensas Diárias;+1
+31/10/2024 18:13;Recompensas Diárias;-2
+31/10/2024 18:13;Recompensas Diárias;+1
+31/10/2024 18:13;Recompensas Diárias;-2
+31/10/2024 18:13;Recompensas Diárias;+1
+31/10/2024 18:13;Recompensas Diárias;-2
+31/10/2024 18:13;Recompensas Diárias;+1
+31/10/2024 18:13;Recompensas Diárias;-2
+31/10/2024 18:13;Recompensas Diárias;+1
+31/10/2024 18:13;Recompensas Diárias;-2
+31/10/2024 18:12;Recompensas Diárias;+1
+31/10/2024 18:12;Recompensas Diárias;-2
+31/10/2024 18:12;Recompensas Diárias;+1
+31/10/2024 18:12;Recompensas Diárias;-2
+31/10/2024 18:12;Recompensas Diárias;+1
+31/10/2024 18:12;Recompensas Diárias;-2
+31/10/2024 18:12;Recompensas Diárias;+1
+31/10/2024 18:12;Recompensas Diárias;-2
+31/10/2024 18:12;Recompensas Diárias;+1
+31/10/2024 18:12;Recompensas Diárias;-2
+31/10/2024 18:12;Recompensas Diárias;+1
+31/10/2024 18:12;Recompensas Diárias;-2
+31/10/2024 18:12;Recompensas Diárias;+1
+31/10/2024 18:12;Recompensas Diárias;-2
+31/10/2024 18:12;Recompensas Diárias;+1
+31/10/2024 18:12;Recompensas Diárias;-2
+31/10/2024 18:12;Recompensas Diárias;+1
+31/10/2024 18:12;Recompensas Diárias;-2
+31/10/2024 18:12;Recompensas Diárias;+1
+31/10/2024 18:12;Recompensas Diárias;-2
+31/10/2024 18:12;Recompensas Diárias;+1
+31/10/2024 18:12;Recompensas Diárias;-2
+31/10/2024 18:11;Recompensas Diárias;+1
+31/10/2024 18:11;Recompensas Diárias;-2
+31/10/2024 18:11;Recompensas Diárias;+1
+31/10/2024 18:11;Recompensas Diárias;-2
+31/10/2024 18:11;Recompensas Diárias;+1
+31/10/2024 18:11;Recompensas Diárias;-2
+31/10/2024 18:11;Recompensas Diárias;+1
+31/10/2024 18:11;Recompensas Diárias;-2
+31/10/2024 18:11;Recompensas Diárias;+1
+31/10/2024 18:11;Recompensas Diárias;-2
+31/10/2024 18:11;Recompensas Diárias;+1
+31/10/2024 18:11;Recompensas Diárias;-2
+31/10/2024 18:10;Shopee Pega Brinde;+1
+31/10/2024 18:08;Recompensas Diárias;+1
+31/10/2024 18:08;Recompensas Diárias;-2
+31/10/2024 18:08;Recompensas Diárias;+1
+31/10/2024 18:08;Recompensas Diárias;-2
+31/10/2024 18:08;Recompensas Diárias;+1
+31/10/2024 18:08;Recompensas Diárias;-2
+31/10/2024 18:08;Recompensas Diárias;+1
+31/10/2024 18:08;Recompensas Diárias;-2
+31/10/2024 18:08;Recompensas Diárias;+1
+31/10/2024 18:08;Recompensas Diárias;-2
+31/10/2024 18:07;Recompensas Diárias;+1
+31/10/2024 18:07;Recompensas Diárias;-2
+31/10/2024 18:07;Recompensas Diárias;+1
+31/10/2024 18:07;Recompensas Diárias;-2
+31/10/2024 18:07;Recompensas Diárias;+1
+31/10/2024 18:07;Recompensas Diárias;-2
+31/10/2024 18:07;Recompensas Diárias;+1
+31/10/2024 18:07;Recompensas Diárias;-2
+31/10/2024 18:07;Recompensas Diárias;+1
+31/10/2024 18:07;Recompensas Diárias;-2
+31/10/2024 18:07;Recompensas Diárias;+1
+31/10/2024 18:07;Recompensas Diárias;-2
+31/10/2024 18:07;Recompensas Diárias;+1
+31/10/2024 18:07;Recompensas Diárias;-2
+31/10/2024 18:07;Recompensas Diárias;+1
+31/10/2024 18:07;Recompensas Diárias;-2
+31/10/2024 18:07;Recompensas Diárias;+1
+31/10/2024 18:07;Recompensas Diárias;-2
+31/10/2024 18:07;Recompensas Diárias;+1
+31/10/2024 18:07;Recompensas Diárias;-2
+31/10/2024 18:07;Recompensas Diárias;+1
+31/10/2024 18:07;Recompensas Diárias;-2
+31/10/2024 18:07;Recompensas Diárias;+1
+31/10/2024 18:07;Recompensas Diárias;-2
+31/10/2024 18:06;Recompensas Diárias;+1
+31/10/2024 18:06;Recompensas Diárias;-2
+31/10/2024 18:06;Recompensas Diárias;+1
+31/10/2024 18:06;Recompensas Diárias;-2
+31/10/2024 18:06;Recompensas Diárias;+1
+31/10/2024 18:06;Recompensas Diárias;-2
+31/10/2024 18:06;Recompensas Diárias;+1
+31/10/2024 18:06;Recompensas Diárias;-2
+31/10/2024 18:06;Recompensas Diárias;+1
+31/10/2024 18:06;Recompensas Diárias;-2
+31/10/2024 18:06;Recompensas Diárias;+1
+31/10/2024 18:06;Recompensas Diárias;-2
+31/10/2024 16:58;Recompensas Diárias;+1
+31/10/2024 16:58;Recompensas Diárias;-2
+31/10/2024 16:58;Recompensas Diárias;+1
+31/10/2024 16:58;Recompensas Diárias;-2
+31/10/2024 16:58;Recompensas Diárias;+1
+31/10/2024 16:58;Recompensas Diárias;-2
+31/10/2024 16:58;Recompensas Diárias;+1
+31/10/2024 16:58;Recompensas Diárias;-2
+31/10/2024 16:57;Recompensas Diárias;+1
+31/10/2024 16:57;Recompensas Diárias;-2
+31/10/2024 16:57;Recompensas Diárias;+1
+31/10/2024 16:57;Recompensas Diárias;-2
+31/10/2024 16:57;Recompensas Diárias;+1
+31/10/2024 16:57;Recompensas Diárias;-2
+31/10/2024 16:57;Recompensas Diárias;+1
+31/10/2024 16:57;Recompensas Diárias;-2
+31/10/2024 16:57;Recompensas Diárias;+1
+31/10/2024 16:57;Recompensas Diárias;-2
+31/10/2024 16:57;Recompensas Diárias;+1
+31/10/2024 16:57;Recompensas Diárias;-2
+31/10/2024 16:57;Recompensas Diárias;+1
+31/10/2024 16:57;Recompensas Diárias;-2
+31/10/2024 16:57;Recompensas Diárias;+1
+31/10/2024 16:57;Recompensas Diárias;-2
+31/10/2024 16:57;Recompensas Diárias;+1
+31/10/2024 16:57;Recompensas Diárias;-2
+31/10/2024 16:57;Recompensas Diárias;+1
+31/10/2024 16:57;Recompensas Diárias;-2
+31/10/2024 16:57;Recompensas Diárias;+1
+31/10/2024 16:57;Recompensas Diárias;-2
+31/10/2024 16:57;Recompensas Diárias;+1
+31/10/2024 16:57;Recompensas Diárias;-2
+31/10/2024 16:56;Recompensas Diárias;+1
+31/10/2024 16:56;Recompensas Diárias;-2
+31/10/2024 16:56;Recompensas Diárias;+1
+31/10/2024 16:56;Recompensas Diárias;-2
+31/10/2024 16:56;Recompensas Diárias;+1
+31/10/2024 16:56;Recompensas Diárias;-2
+31/10/2024 16:56;Recompensas Diárias;+1
+31/10/2024 16:56;Recompensas Diárias;-2
+31/10/2024 16:56;Recompensas Diárias;+1
+31/10/2024 16:56;Recompensas Diárias;-2
+31/10/2024 15:47;Protetor de Portão 50 METROS, Cores variadas (10 cm de altura);-1.972
+31/10/2024 13:40;Recompensas Diárias;+1
+31/10/2024 13:40;Recompensas Diárias;-2
+31/10/2024 13:40;Recompensas Diárias;+1
+31/10/2024 13:40;Recompensas Diárias;-2
+31/10/2024 13:40;Recompensas Diárias;+1
+31/10/2024 13:40;Recompensas Diárias;-2
+31/10/2024 13:40;Recompensas Diárias;+2
+31/10/2024 13:40;Recompensas Diárias;-2
+31/10/2024 13:40;Recompensas Diárias;+2
+31/10/2024 13:40;Recompensas Diárias;-2
+31/10/2024 13:40;Recompensas Diárias;+2
+31/10/2024 13:40;Recompensas Diárias;-2
+31/10/2024 13:39;Recompensas Diárias;+1
+31/10/2024 13:39;Recompensas Diárias;-2
+31/10/2024 13:39;Recompensas Diárias;+2
+31/10/2024 13:39;Recompensas Diárias;-2
+31/10/2024 13:39;Recompensas Diárias;+2
+31/10/2024 13:39;Recompensas Diárias;-2
+31/10/2024 13:39;Recompensas Diárias;+1
+31/10/2024 13:39;Recompensas Diárias;-2
+31/10/2024 13:38;Recompensas Diárias;+2
+31/10/2024 13:38;Recompensas Diárias;-2
+31/10/2024 13:38;Recompensas Diárias;+1
+31/10/2024 13:38;Recompensas Diárias;-2
+31/10/2024 11:00;Recompensas Diárias;+1
+31/10/2024 11:00;Recompensas Diárias;-2
+31/10/2024 10:25;Recompensas Diárias;+1
+31/10/2024 06:56;Recompensa da Missão Diária;+1
+31/10/2024 06:55;Recompensa da Missão Diária;+1
+31/10/2024 06:55;Shopee Pega Brinde;+1
+31/10/2024 06:53;Shopee Pega Brinde;+1
+31/10/2024 06:53;Shopee Pega Brinde;+1
+31/10/2024 06:52;Recompensa da Missão Diária;+1
+31/10/2024 06:52;Recompensas Diárias;+1
+31/10/2024 06:52;Recompensas Diárias;-2
+31/10/2024 06:52;Recompensa da Missão Diária;+1
+31/10/2024 06:52;Check-in diario;+3
+30/10/2024 22:55;Recompensas Diárias;+2
+30/10/2024 22:55;Recompensas Diárias;-2
+30/10/2024 22:55;Recompensas Diárias;+2
+30/10/2024 22:55;Recompensas Diárias;-2
+30/10/2024 22:54;Recompensas Diárias;+2
+30/10/2024 22:54;Recompensas Diárias;-2
+30/10/2024 22:54;Recompensas Diárias;+1
+30/10/2024 22:54;Recompensas Diárias;-2
+30/10/2024 22:53;Recompensas Diárias;+1
+30/10/2024 12:37;Recompensas Diárias;+2
+30/10/2024 12:37;Recompensas Diárias;-2
+30/10/2024 12:35;Recompensas Diárias;+1
+30/10/2024 12:35;Recompensas Diárias;-2
+30/10/2024 12:15;Recompensas Diárias;+2
+30/10/2024 12:15;Recompensas Diárias;-2
+30/10/2024 12:15;Recompensas Diárias;+2
+30/10/2024 12:15;Recompensas Diárias;-2
+30/10/2024 12:11;Recompensas Diárias;+1
+30/10/2024 12:11;Recompensas Diárias;-2
+30/10/2024 12:11;Recompensas Diárias;+1
+30/10/2024 12:11;Recompensas Diárias;-2
+30/10/2024 12:11;Recompensas Diárias;+2
+30/10/2024 12:11;Recompensas Diárias;-2
+30/10/2024 12:11;Recompensas Diárias;+1
+30/10/2024 12:11;Recompensas Diárias;-2
+30/10/2024 12:06;Recompensas Diárias;+5
+30/10/2024 12:06;Recompensas Diárias;-2
+30/10/2024 12:01;Recompensas Diárias;+1
+30/10/2024 12:01;Recompensas Diárias;-2
+30/10/2024 12:01;Recompensas Diárias;+1
+30/10/2024 12:01;Recompensas Diárias;-2
+30/10/2024 12:01;Recompensas Diárias;+1
+30/10/2024 12:01;Recompensas Diárias;-2
+30/10/2024 12:01;Recompensas Diárias;+1
+30/10/2024 12:01;Recompensas Diárias;-2
+30/10/2024 12:01;Recompensas Diárias;+2
+30/10/2024 12:01;Recompensas Diárias;-2
+30/10/2024 12:01;Recompensas Diárias;+2
+30/10/2024 12:01;Recompensas Diárias;-2
+30/10/2024 12:01;Recompensas Diárias;+1
+30/10/2024 12:01;Recompensas Diárias;-2
+30/10/2024 11:49;Recompensas Diárias;+1
+30/10/2024 11:49;Recompensas Diárias;-2
+30/10/2024 11:49;Recompensas Diárias;+1
+30/10/2024 11:49;Recompensas Diárias;-2
+30/10/2024 11:49;Recompensas Diárias;+1
+30/10/2024 11:49;Recompensas Diárias;-2
+30/10/2024 11:38;Recompensas Diárias;+2
+30/10/2024 11:38;Recompensas Diárias;-2
+30/10/2024 11:38;Recompensas Diárias;+1
+30/10/2024 11:38;Recompensas Diárias;-2
+30/10/2024 11:38;Recompensas Diárias;+1
+30/10/2024 11:38;Recompensas Diárias;-2
+30/10/2024 11:38;Recompensas Diárias;+2
+30/10/2024 11:38;Recompensas Diárias;-2
+30/10/2024 11:38;Recompensas Diárias;+2
+30/10/2024 11:38;Recompensas Diárias;-2
+30/10/2024 11:37;Recompensas Diárias;+1
+30/10/2024 07:40;Recompensas Diárias;+2
+30/10/2024 07:40;Recompensas Diárias;-2
+30/10/2024 07:15;Recompensas Diárias;+2
+30/10/2024 07:15;Recompensas Diárias;-2
+30/10/2024 07:15;Recompensas Diárias;+1
+30/10/2024 07:15;Recompensas Diárias;-2
+30/10/2024 06:44;Recompensas Diárias;+2
+30/10/2024 06:44;Recompensas Diárias;-2
+30/10/2024 06:43;Recompensa da Missão Diária;+1
+30/10/2024 06:43;Recompensa da Missão Diária;+1
+30/10/2024 06:43;Recompensas Diárias;+1
+30/10/2024 06:42;Recompensas Diárias;-2
+30/10/2024 06:42;Recompensa da Missão Diária;+1
+30/10/2024 06:42;Shopee Pega Brinde;+10
+30/10/2024 06:42;Shopee Pega Brinde;-6
+30/10/2024 06:41;Shopee Pega Brinde;+1
+30/10/2024 06:41;Shopee Pega Brinde;+1
+30/10/2024 06:40;Recompensa da Missão Diária;+1
+30/10/2024 06:39;Check-in diario;+1
+29/10/2024 23:09;Recompensas Diárias;+1
+29/10/2024 23:09;Recompensas Diárias;-2
+29/10/2024 23:09;Recompensas Diárias;+2
+29/10/2024 23:09;Recompensas Diárias;-2
+29/10/2024 22:59;Shopee Junta Peças;+1
+29/10/2024 22:56;Recompensas Diárias;+1
+29/10/2024 22:56;Recompensas Diárias;-2
+29/10/2024 22:56;Recompensas Diárias;+1
+29/10/2024 22:56;Recompensas Diárias;-2
+29/10/2024 22:55;Recompensas Diárias;+1
+29/10/2024 22:55;Recompensas Diárias;-2
+29/10/2024 22:43;Recompensas Diárias;+2
+29/10/2024 22:43;Recompensas Diárias;-2
+29/10/2024 22:43;Recompensas Diárias;+1
+29/10/2024 22:43;Recompensas Diárias;-2
+29/10/2024 22:43;Recompensas Diárias;+1
+29/10/2024 22:43;Recompensas Diárias;-2
+29/10/2024 22:43;Recompensas Diárias;+1
+29/10/2024 22:43;Recompensas Diárias;-2
+29/10/2024 22:43;Recompensas Diárias;+1
+29/10/2024 22:43;Recompensas Diárias;-2
+29/10/2024 22:43;Recompensas Diárias;+2
+29/10/2024 22:43;Recompensas Diárias;-2
+29/10/2024 22:43;Recompensas Diárias;+2
+29/10/2024 22:43;Recompensas Diárias;-2
+29/10/2024 22:42;Recompensas Diárias;+1
+29/10/2024 22:42;Recompensas Diárias;-2
+29/10/2024 22:41;Recompensas Diárias;+1
+29/10/2024 22:41;Recompensas Diárias;-2
+29/10/2024 22:37;Recompensas Diárias;+1
+29/10/2024 22:37;Recompensas Diárias;-2
+29/10/2024 22:37;Recompensas Diárias;+1
+29/10/2024 22:37;Recompensas Diárias;-2
+29/10/2024 22:37;Recompensas Diárias;+1
+29/10/2024 22:37;Recompensas Diárias;-2
+29/10/2024 22:37;Recompensas Diárias;+1
+29/10/2024 22:37;Recompensas Diárias;-2
+29/10/2024 22:37;Recompensas Diárias;+2
+29/10/2024 22:37;Recompensas Diárias;-2
+29/10/2024 22:37;Recompensas Diárias;+2
+29/10/2024 22:37;Recompensas Diárias;-2
+29/10/2024 22:37;Recompensas Diárias;+2
+29/10/2024 22:37;Recompensas Diárias;-2
+29/10/2024 22:37;Recompensas Diárias;+1
+29/10/2024 22:37;Recompensas Diárias;-2
+29/10/2024 22:37;Recompensas Diárias;+1
+29/10/2024 22:37;Recompensas Diárias;-2
+29/10/2024 22:22;Recompensas Diárias;+1
+29/10/2024 22:20;Recompensas Diárias;+1
+29/10/2024 18:54;Recompensas Diárias;+2
+29/10/2024 18:54;Recompensas Diárias;-2
+29/10/2024 18:54;Recompensas Diárias;+1
+29/10/2024 18:54;Recompensas Diárias;-2
+29/10/2024 18:49;Recompensas Diárias;+1
+29/10/2024 18:49;Recompensas Diárias;-2
+29/10/2024 18:49;Recompensas Diárias;+1
+29/10/2024 18:49;Recompensas Diárias;-2
+29/10/2024 18:49;Recompensas Diárias;+1
+29/10/2024 18:49;Recompensas Diárias;-2
+29/10/2024 18:49;Recompensas Diárias;+1
+29/10/2024 18:49;Recompensas Diárias;-2
+29/10/2024 18:49;Recompensas Diárias;+1
+29/10/2024 18:49;Recompensas Diárias;-2
+29/10/2024 18:49;Recompensas Diárias;+1
+29/10/2024 18:49;Recompensas Diárias;-2
+29/10/2024 18:48;Recompensas Diárias;+2
+29/10/2024 18:48;Recompensas Diárias;-2
+29/10/2024 18:48;Recompensas Diárias;+1
+29/10/2024 18:48;Recompensas Diárias;-2
+29/10/2024 18:48;Recompensas Diárias;+1
+29/10/2024 18:47;Recompensas Diárias;+1
+29/10/2024 18:47;Recompensas Diárias;-2
+29/10/2024 17:19;Recompensas Diárias;+2
+29/10/2024 17:19;Recompensas Diárias;-2
+29/10/2024 17:19;Recompensas Diárias;+2
+29/10/2024 17:19;Recompensas Diárias;-2
+29/10/2024 17:19;Recompensas Diárias;+1
+29/10/2024 17:19;Recompensas Diárias;-2
+29/10/2024 17:19;Recompensas Diárias;+2
+29/10/2024 17:19;Recompensas Diárias;-2
+29/10/2024 17:18;Recompensas Diárias;+2
+29/10/2024 17:18;Recompensas Diárias;-2
+29/10/2024 17:18;Recompensas Diárias;+1
+29/10/2024 17:18;Recompensas Diárias;-2
+29/10/2024 17:18;Recompensas Diárias;+2
+29/10/2024 17:18;Recompensas Diárias;-2
+29/10/2024 17:18;Recompensas Diárias;+2
+29/10/2024 17:18;Recompensas Diárias;-2
+29/10/2024 17:18;Recompensas Diárias;+2
+29/10/2024 17:18;Recompensas Diárias;-2
+29/10/2024 17:18;Recompensas Diárias;+1
+29/10/2024 17:18;Recompensas Diárias;-2
+29/10/2024 17:18;Recompensas Diárias;+1
+29/10/2024 17:18;Recompensas Diárias;-2
+29/10/2024 17:18;Recompensas Diárias;+1
+29/10/2024 17:18;Recompensas Diárias;-2
+29/10/2024 17:18;Recompensas Diárias;+1
+29/10/2024 17:18;Recompensas Diárias;-2
+29/10/2024 17:18;Recompensas Diárias;+1
+29/10/2024 17:18;Recompensas Diárias;-2
+29/10/2024 17:18;Recompensas Diárias;+1
+29/10/2024 17:18;Recompensas Diárias;-2
+29/10/2024 17:17;Recompensas Diárias;+1
+29/10/2024 17:17;Recompensas Diárias;-2
+29/10/2024 17:17;Recompensas Diárias;+1
+29/10/2024 17:17;Recompensas Diárias;-2
+29/10/2024 17:17;Recompensas Diárias;+1
+29/10/2024 17:17;Recompensas Diárias;-2
+29/10/2024 17:17;Recompensas Diárias;+1
+29/10/2024 17:17;Recompensas Diárias;-2
+29/10/2024 17:17;Recompensas Diárias;+1
+29/10/2024 17:17;Recompensas Diárias;-2
+29/10/2024 17:17;Recompensas Diárias;+2
+29/10/2024 17:17;Recompensas Diárias;-2
+29/10/2024 17:17;Recompensas Diárias;+1
+29/10/2024 17:17;Recompensas Diárias;-2
+29/10/2024 17:17;Recompensas Diárias;+2
+29/10/2024 17:17;Recompensas Diárias;-2
+29/10/2024 17:17;Recompensas Diárias;+1
+29/10/2024 17:17;Recompensas Diárias;-2
+29/10/2024 17:17;Recompensas Diárias;+2
+29/10/2024 17:17;Recompensas Diárias;-2
+29/10/2024 17:17;Recompensas Diárias;+2
+29/10/2024 17:17;Recompensas Diárias;-2
+29/10/2024 17:16;Recompensas Diárias;+1
+29/10/2024 17:16;Recompensas Diárias;-2
+29/10/2024 17:16;Recompensas Diárias;+1
+29/10/2024 17:16;Recompensas Diárias;-2
+29/10/2024 17:16;Recompensas Diárias;+2
+29/10/2024 17:16;Recompensas Diárias;+2
+29/10/2024 17:16;Recompensas Diárias;+2
+29/10/2024 17:16;Recompensas Diárias;+2
+29/10/2024 17:08;Recompensas Diárias;+2
+29/10/2024 17:08;Recompensas Diárias;-2
+29/10/2024 17:08;Recompensas Diárias;+1
+29/10/2024 17:08;Recompensas Diárias;-2
+29/10/2024 17:08;Recompensas Diárias;+1
+29/10/2024 17:08;Recompensas Diárias;-2
+29/10/2024 17:08;Recompensas Diárias;+2
+29/10/2024 17:08;Recompensas Diárias;-2
+29/10/2024 17:08;Recompensas Diárias;+1
+29/10/2024 17:08;Recompensas Diárias;-2
+29/10/2024 17:08;Recompensas Diárias;+1
+29/10/2024 17:08;Recompensas Diárias;-2
+29/10/2024 17:07;Recompensas Diárias;+2
+29/10/2024 17:07;Recompensas Diárias;-2
+29/10/2024 17:06;Recompensas Diárias;+1
+29/10/2024 17:06;Recompensas Diárias;-2
+29/10/2024 17:06;Recompensas Diárias;+2
+29/10/2024 17:06;Recompensas Diárias;-2
+29/10/2024 17:03;Recompensas Diárias;+2
+29/10/2024 17:03;Recompensas Diárias;-2
+29/10/2024 17:03;Recompensas Diárias;+1
+29/10/2024 17:03;Recompensas Diárias;-2
+29/10/2024 17:03;Recompensas Diárias;+1
+29/10/2024 17:03;Recompensas Diárias;-2
+29/10/2024 17:03;Recompensas Diárias;+1
+29/10/2024 17:03;Recompensas Diárias;-2
+29/10/2024 17:03;Recompensas Diárias;+1
+29/10/2024 17:03;Recompensas Diárias;-2
+29/10/2024 17:03;Recompensas Diárias;+2
+29/10/2024 17:03;Recompensas Diárias;-2
+29/10/2024 17:02;Recompensas Diárias;+1
+29/10/2024 17:02;Recompensas Diárias;-2
+29/10/2024 17:02;Recompensas Diárias;+1
+29/10/2024 17:02;Recompensas Diárias;-2
+29/10/2024 17:02;Recompensas Diárias;+1
+29/10/2024 17:02;Recompensas Diárias;-2
+29/10/2024 17:02;Recompensas Diárias;+1
+29/10/2024 17:02;Recompensas Diárias;-2
+29/10/2024 17:02;Recompensas Diárias;+1
+29/10/2024 17:02;Recompensas Diárias;-2
+29/10/2024 17:01;Recompensas Diárias;+1
+29/10/2024 17:01;Recompensas Diárias;-2
+29/10/2024 17:01;Recompensas Diárias;+1
+29/10/2024 17:01;Recompensas Diárias;-2
+29/10/2024 17:01;Recompensas Diárias;+1
+29/10/2024 17:01;Recompensas Diárias;-2
+29/10/2024 17:01;Recompensas Diárias;+1
+29/10/2024 17:01;Recompensas Diárias;-2
+29/10/2024 17:01;Recompensas Diárias;+2
+29/10/2024 17:01;Recompensas Diárias;-2
+29/10/2024 17:01;Recompensas Diárias;+2
+29/10/2024 17:01;Recompensas Diárias;-2
+29/10/2024 17:01;Recompensas Diárias;+2
+29/10/2024 17:01;Recompensas Diárias;-2
+29/10/2024 17:01;Recompensas Diárias;+2
+29/10/2024 17:01;Recompensas Diárias;-2
+29/10/2024 17:01;Recompensas Diárias;+2
+29/10/2024 17:01;Recompensas Diárias;-2
+29/10/2024 17:01;Recompensas Diárias;+1
+29/10/2024 17:01;Recompensas Diárias;-2
+29/10/2024 17:00;Recompensas Diárias;+2
+29/10/2024 17:00;Recompensas Diárias;-2
+29/10/2024 17:00;Recompensas Diárias;+1
+29/10/2024 17:00;Recompensas Diárias;-2
+29/10/2024 16:53;Recompensas Diárias;+1
+29/10/2024 16:53;Recompensas Diárias;-2
+29/10/2024 16:53;Recompensas Diárias;+2
+29/10/2024 16:53;Recompensas Diárias;-2
+29/10/2024 16:53;Recompensas Diárias;+2
+29/10/2024 16:53;Recompensas Diárias;-2
+29/10/2024 16:53;Recompensas Diárias;+1
+29/10/2024 16:53;Recompensas Diárias;-2
+29/10/2024 16:52;Recompensas Diárias;+1
+29/10/2024 16:52;Recompensas Diárias;-2
+29/10/2024 16:52;Recompensas Diárias;+1
+29/10/2024 16:52;Recompensas Diárias;-2
+29/10/2024 16:52;Recompensas Diárias;+2
+29/10/2024 16:52;Recompensas Diárias;-2
+29/10/2024 16:52;Recompensas Diárias;+2
+29/10/2024 16:52;Recompensas Diárias;-2
+29/10/2024 15:29;Recompensas Diárias;+2
+29/10/2024 15:29;Recompensas Diárias;-2
+29/10/2024 15:26;Recompensas Diárias;+1
+29/10/2024 15:25;Recompensas Diárias;-2
+29/10/2024 15:25;Recompensas Diárias;+2
+29/10/2024 15:25;Recompensas Diárias;-2
+29/10/2024 15:25;Recompensas Diárias;+1
+29/10/2024 15:25;Recompensas Diárias;-2
+29/10/2024 15:25;Recompensas Diárias;+2
+29/10/2024 15:25;Recompensas Diárias;-2
+29/10/2024 13:51;Recompensas Diárias;+1
+29/10/2024 13:51;Recompensas Diárias;-2
+29/10/2024 13:51;Recompensas Diárias;+1
+29/10/2024 13:51;Recompensas Diárias;-2
+29/10/2024 13:51;Recompensas Diárias;+2
+29/10/2024 13:51;Recompensas Diárias;-2
+29/10/2024 13:51;Recompensas Diárias;+1
+29/10/2024 13:51;Recompensas Diárias;-2
+29/10/2024 13:51;Recompensas Diárias;+2
+29/10/2024 13:51;Recompensas Diárias;-2
+29/10/2024 13:50;Recompensas Diárias;+1
+29/10/2024 13:50;Recompensas Diárias;-2
+29/10/2024 13:50;Recompensas Diárias;+1
+29/10/2024 13:50;Recompensas Diárias;-2
+29/10/2024 12:56;Recompensas Diárias;+2
+29/10/2024 12:56;Recompensas Diárias;-2
+29/10/2024 12:56;Recompensas Diárias;+1
+29/10/2024 12:56;Recompensas Diárias;-2
+29/10/2024 12:45;Recompensas Diárias;+1
+29/10/2024 12:45;Recompensas Diárias;-2
+29/10/2024 12:45;Recompensas Diárias;+1
+29/10/2024 12:45;Recompensas Diárias;-2
+29/10/2024 12:45;Recompensas Diárias;+1
+29/10/2024 12:45;Recompensas Diárias;-2
+29/10/2024 12:45;Recompensas Diárias;+1
+29/10/2024 12:45;Recompensas Diárias;-2
+29/10/2024 12:45;Recompensas Diárias;+1
+29/10/2024 12:45;Recompensas Diárias;-2
+29/10/2024 12:45;Recompensas Diárias;+1
+29/10/2024 12:45;Recompensas Diárias;-2
+29/10/2024 12:45;Recompensas Diárias;+1
+29/10/2024 12:45;Recompensas Diárias;-2
+29/10/2024 12:45;Recompensas Diárias;+1
+29/10/2024 12:45;Recompensas Diárias;-2
+29/10/2024 12:45;Recompensas Diárias;+2
+29/10/2024 12:45;Recompensas Diárias;-2
+29/10/2024 12:44;Recompensas Diárias;+2
+29/10/2024 12:44;Recompensas Diárias;-2
+29/10/2024 12:44;Recompensas Diárias;+1
+29/10/2024 12:44;Recompensas Diárias;-2
+29/10/2024 12:44;Recompensas Diárias;+2
+29/10/2024 12:44;Recompensas Diárias;-2
+29/10/2024 12:44;Recompensas Diárias;+2
+29/10/2024 12:44;Recompensas Diárias;-2
+29/10/2024 12:44;Recompensas Diárias;+2
+29/10/2024 12:44;Recompensas Diárias;-2
+29/10/2024 12:44;Recompensas Diárias;+1
+29/10/2024 12:44;Recompensas Diárias;-2
+29/10/2024 12:44;Recompensas Diárias;+1
+29/10/2024 12:44;Recompensas Diárias;-2
+29/10/2024 12:44;Recompensas Diárias;+1
+29/10/2024 12:44;Recompensas Diárias;-2
+29/10/2024 12:44;Recompensas Diárias;+1
+29/10/2024 12:44;Recompensas Diárias;-2
+29/10/2024 12:44;Recompensas Diárias;+2
+29/10/2024 12:44;Recompensas Diárias;-2
+29/10/2024 12:43;Recompensas Diárias;+2
+29/10/2024 12:43;Recompensas Diárias;-2
+29/10/2024 12:43;Recompensas Diárias;+2
+29/10/2024 12:43;Recompensas Diárias;-2
+29/10/2024 12:43;Recompensas Diárias;+2
+29/10/2024 12:43;Recompensas Diárias;-2
+29/10/2024 12:43;Recompensas Diárias;+1
+29/10/2024 12:43;Recompensas Diárias;-2
+29/10/2024 12:43;Recompensas Diárias;+1
+29/10/2024 12:43;Recompensas Diárias;-2
+29/10/2024 12:43;Recompensas Diárias;+1
+29/10/2024 12:43;Recompensas Diárias;-2
+29/10/2024 12:43;Recompensas Diárias;+1
+29/10/2024 12:43;Recompensas Diárias;-2
+29/10/2024 12:43;Recompensas Diárias;+1
+29/10/2024 12:43;Recompensas Diárias;-2
+29/10/2024 12:43;Recompensas Diárias;+2
+29/10/2024 12:43;Recompensas Diárias;-2
+29/10/2024 12:43;Recompensas Diárias;+2
+29/10/2024 12:43;Recompensas Diárias;-2
+29/10/2024 12:42;Recompensas Diárias;+8
+29/10/2024 12:42;Recompensas Diárias;-2
+29/10/2024 12:42;Recompensas Diárias;+1
+29/10/2024 12:42;Recompensas Diárias;-2
+29/10/2024 12:42;Recompensas Diárias;+2
+29/10/2024 12:42;Recompensas Diárias;-2
+29/10/2024 12:42;Recompensas Diárias;+1
+29/10/2024 12:42;Recompensas Diárias;-2
+29/10/2024 12:42;Recompensas Diárias;+8
+29/10/2024 12:42;Recompensas Diárias;-2
+29/10/2024 12:42;Recompensas Diárias;+1
+29/10/2024 12:42;Recompensas Diárias;-2
+29/10/2024 12:42;Recompensas Diárias;+2
+29/10/2024 12:42;Recompensas Diárias;-2
+29/10/2024 12:42;Recompensas Diárias;+2
+29/10/2024 12:42;Recompensas Diárias;-2
+29/10/2024 12:37;Recompensas Diárias;+1
+29/10/2024 12:37;Recompensas Diárias;-2
+29/10/2024 12:36;Recompensas Diárias;+1
+29/10/2024 12:36;Recompensas Diárias;-2
+29/10/2024 12:36;Recompensas Diárias;+1
+29/10/2024 12:36;Recompensas Diárias;-2
+29/10/2024 12:36;Recompensas Diárias;+2
+29/10/2024 12:36;Recompensas Diárias;-2
+29/10/2024 12:36;Recompensas Diárias;+1
+29/10/2024 12:36;Recompensas Diárias;-2
+29/10/2024 12:36;Recompensas Diárias;+1
+29/10/2024 12:36;Recompensas Diárias;-2
+29/10/2024 12:36;Recompensas Diárias;+2
+29/10/2024 12:36;Recompensas Diárias;-2
+29/10/2024 12:35;Recompensas Diárias;+2
+29/10/2024 12:35;Recompensas Diárias;-2
+29/10/2024 12:26;Recompensas Diárias;+2
+29/10/2024 06:53;Recompensa da Missão Diária;+1
+29/10/2024 06:52;Recompensa da Missão Diária;+1
+29/10/2024 06:52;Shopee Pega Brinde;-6
+29/10/2024 06:51;Shopee Pega Brinde;+1
+29/10/2024 06:50;Recompensa da Missão Diária;+1
+29/10/2024 06:50;Recompensas Diárias;+1
+29/10/2024 06:50;Recompensa da Missão Diária;+1
+29/10/2024 06:50;Check-in Diário;+10
+28/10/2024 18:00;Recompensas Diárias;+2
+28/10/2024 11:50;Recompensa da Missão Diária;+1
+28/10/2024 11:29;Recompensa da Missão Diária;+5
+28/10/2024 00:17;Recompensas Diárias;+1
+28/10/2024 00:12;Recompensa da Missão Diária;+1
+28/10/2024 00:11;Recompensa da Missão Diária;+1
+28/10/2024 00:09;Recompensa da Missão Diária;+1
+28/10/2024 00:07;Recompensa da Missão Diária;+1
+28/10/2024 00:07;Check-in diario;+1
+27/10/2024 14:39;Roleta Premiada;+5
+27/10/2024 10:44;Recompensas Diárias;+1
+27/10/2024 10:32;Recompensa da Missão Diária;+1
+27/10/2024 01:12;Shopee Pega Brinde;+1
+27/10/2024 01:11;Shopee Pega Brinde;+1
+27/10/2024 01:11;Shopee Pega Brinde;+2
+27/10/2024 00:56;Recompensa da Missão Diária;+1
+27/10/2024 00:55;Recompensa da Missão Diária;+1
+27/10/2024 00:54;Recompensa da Missão Diária;+1
+27/10/2024 00:54;Check-in diario;+1
+26/10/2024 20:21;Recompensas Diárias;+1
+26/10/2024 00:42;Shopee Pega Brinde;+1
+26/10/2024 00:41;Shopee Pega Brinde;+1
+26/10/2024 00:41;Recompensas Diárias;+2
+26/10/2024 00:41;Recompensa da Missão Diária;+1
+26/10/2024 00:40;Recompensa da Missão Diária;+1
+26/10/2024 00:39;Recompensa da Missão Diária;+1
+26/10/2024 00:39;Recompensa da Missão Diária;+1
+26/10/2024 00:38;Check-in diario;+5
+25/10/2024 09:34;Recompensa da Missão Diária;+1
+25/10/2024 09:34;Recompensa da Missão Diária;+1
+25/10/2024 09:34;Shopee Pega Brinde;-10
+25/10/2024 09:33;Shopee Pega Brinde;+1
+25/10/2024 09:24;Recompensas Diárias;+2
+25/10/2024 09:21;Recompensa da Missão Diária;+1
+25/10/2024 09:21;Recompensa da Missão Diária;+1
+25/10/2024 09:21;Check-in diario;+1
+24/10/2024 07:26;Recompensa da Missão Diária;+1
+24/10/2024 07:26;Recompensa da Missão Diária;+1
+24/10/2024 07:24;Shopee Pega Brinde;+1
+24/10/2024 07:23;Recompensa da Missão Diária;+1
+24/10/2024 07:23;Check-in diario;+3
+23/10/2024 22:57;Recompensas Diárias;+1
+23/10/2024 22:57;Recompensa da Missão Diária;+5
+23/10/2024 12:35;Recompensa da Missão Diária;+1
+23/10/2024 12:34;Recompensa da Missão Diária;+1
+23/10/2024 09:16;Shopee Pega Brinde;+1
+23/10/2024 09:15;Recompensas Diárias;+1
+23/10/2024 09:12;Recompensa da Missão Diária;+1
+23/10/2024 09:12;Recompensa da Missão Diária;+1
+23/10/2024 09:12;Check-in diario;+1
+22/10/2024 10:03;Recompensa da Missão Diária;+1
+22/10/2024 10:02;Recompensa da Missão Diária;+1
+22/10/2024 10:02;Shopee Pega Brinde;+1
+22/10/2024 10:01;Shopee Pega Brinde;+1
+22/10/2024 10:01;Shopee Pega Brinde;+1
+22/10/2024 10:01;Recompensa da Missão Diária;+1
+22/10/2024 10:01;Recompensas Diárias;+1
+22/10/2024 10:01;Recompensa da Missão Diária;+1
+22/10/2024 10:01;Check-in Diário;+8
+21/10/2024 07:29;Recompensa da Missão Diária;+1
+21/10/2024 07:29;Recompensa da Missão Diária;+1
+21/10/2024 07:27;Shopee Pega Brinde;+5
+21/10/2024 07:27;Shopee Pega Brinde;+5
+21/10/2024 07:27;Recompensa da Missão Diária;+1
+21/10/2024 07:27;Recompensas Diárias;+10
+21/10/2024 07:27;Recompensa da Missão Diária;+1
+21/10/2024 07:27;Recompensa da Missão Diária;+10
+21/10/2024 07:25;Check-in diario;+1
+20/10/2024 09:10;Recompensa da Missão Diária;+1
+20/10/2024 09:09;Recompensa da Missão Diária;+1
+20/10/2024 09:08;Shopee Pega Brinde;+1
+20/10/2024 09:08;Shopee Pega Brinde;+1
+20/10/2024 09:07;Recompensa da Missão Diária;+1
+20/10/2024 09:06;Recompensas Diárias;+1
+20/10/2024 09:06;Recompensa da Missão Diária;+1
+20/10/2024 09:06;Check-in diario;+1
+19/10/2024 00:26;Shopee Pega Brinde;+1
+19/10/2024 00:25;Recompensas Diárias;+2
+19/10/2024 00:17;Recompensa da Missão Diária;+1
+19/10/2024 00:15;Recompensa da Missão Diária;+1
+19/10/2024 00:14;Recompensa da Missão Diária;+1
+19/10/2024 00:13;Recompensa da Missão Diária;+1
+19/10/2024 00:13;Check-in diario;+5
+18/10/2024 09:01;Recompensa da Missão Diária;+1
+18/10/2024 09:00;Recompensa da Missão Diária;+1
+18/10/2024 08:59;Shopee Pega Brinde;+10
+18/10/2024 08:59;Shopee Pega Brinde;+15
+18/10/2024 08:59;Recompensa da Missão Diária;+1
+18/10/2024 08:59;Recompensa da Missão Diária;+1
+18/10/2024 08:58;Check-in diario;+1
+17/10/2024 09:15;Shopee Pega Brinde;+5
+17/10/2024 09:14;Recompensa da Missão Diária;+1
+17/10/2024 09:13;Recompensa da Missão Diária;+1
+17/10/2024 09:13;Shopee Pega Brinde;-6
+17/10/2024 09:07;Shopee Pega Brinde;+1
+17/10/2024 09:06;Recompensas Diárias;+1
+17/10/2024 09:02;Recompensa da Missão Diária;+1
+17/10/2024 09:02;Recompensa da Missão Diária;+1
+17/10/2024 09:02;Check-in diario;+3
+16/10/2024 08:45;Shopee Pega Brinde;+1
+16/10/2024 08:44;Shopee Pega Brinde;+2
+16/10/2024 08:34;Recompensa da Missão Diária;+1
+16/10/2024 08:34;Recompensa da Missão Diária;+1
+16/10/2024 01:32;Recompensa da Missão Diária;+1
+16/10/2024 01:32;Recompensas Diárias;+1
+16/10/2024 01:31;Recompensa da Missão Diária;+1
+16/10/2024 01:31;Check-in diario;+1
+15/10/2024 12:31;Recompensa da Missão Diária;+1
+15/10/2024 12:30;Recompensa da Missão Diária;+1
+15/10/2024 12:29;Shopee Pega Brinde;+1
+15/10/2024 12:27;Recompensa da Missão Diária;+1
+15/10/2024 12:27;Recompensas Diárias;+2
+15/10/2024 12:27;Recompensa da Missão Diária;+1
+15/10/2024 12:26;Check-in Diário;+8
+14/10/2024 10:47;Recompensa da Missão Diária;+1
+14/10/2024 10:46;Recompensa da Missão Diária;+1
+14/10/2024 10:46;Shopee Pega Brinde;+1
+14/10/2024 10:45;Shopee Pega Brinde;+1
+14/10/2024 10:45;Shopee Pega Brinde;+1
+14/10/2024 10:44;Recompensa da Missão Diária;+1
+14/10/2024 10:44;Recompensas Diárias;+2
+14/10/2024 10:44;Recompensa da Missão Diária;+1
+14/10/2024 10:44;Check-in diario;+1
+13/10/2024 11:06;Recompensa da Missão Diária;+1
+13/10/2024 11:05;Recompensa da Missão Diária;+1
+13/10/2024 11:05;Shopee Pega Brinde;+1
+13/10/2024 11:00;Shopee Pega Brinde;+2
+13/10/2024 11:00;Shopee Pega Brinde;+1
+13/10/2024 10:59;Recompensa da Missão Diária;+1
+13/10/2024 10:59;Recompensas Diárias;+1
+13/10/2024 00:51;Recompensa da Missão Diária;+1
+13/10/2024 00:51;Check-in diario;+1
+12/10/2024 01:00;Recompensa da Missão Diária;+1
+12/10/2024 00:59;Recompensa da Missão Diária;+1
+12/10/2024 00:59;Shopee Pega Brinde;+1
+12/10/2024 00:58;Recompensa da Missão Diária;+1
+12/10/2024 00:58;Recompensas Diárias;+1
+12/10/2024 00:58;Recompensa da Missão Diária;+1
+12/10/2024 00:17;Check-in diario;+5
+11/10/2024 10:53;Recompensa da Missão Diária;+1
+11/10/2024 10:53;Recompensa da Missão Diária;+1
+11/10/2024 10:53;Shopee Pega Brinde;+1
+11/10/2024 10:52;Shopee Pega Brinde;+1
+11/10/2024 10:52;Shopee Pega Brinde;+1
+11/10/2024 10:51;Recompensa da Missão Diária;+1
+11/10/2024 10:51;Recompensas Diárias;+1
+11/10/2024 10:51;Recompensa da Missão Diária;+1
+11/10/2024 10:51;Recompensa da Missão Diária;+20
+11/10/2024 10:51;Check-in diario;+1
+10/10/2024 20:03;Recompensa da Missão Diária;+1
+10/10/2024 20:02;Recompensa da Missão Diária;+1
+10/10/2024 20:02;Shopee Pega Brinde;+1
+10/10/2024 20:01;Recompensa da Missão Diária;+1
+10/10/2024 20:01;Recompensas Diárias;+2
+10/10/2024 20:01;Check-in diario;+3
+09/10/2024 12:36;Recompensa da Missão Diária;+1
+09/10/2024 12:36;Recompensa da Missão Diária;+1
+09/10/2024 12:36;Recompensas Diárias;+1
+09/10/2024 12:36;Recompensa da Missão Diária;+1
+09/10/2024 12:35;Shopee Pega Brinde;+1
+09/10/2024 12:34;Check-in diario;+1
+09/10/2024 12:34;Moedas pela avaliação;+10
+07/10/2024 23:46;Recompensa da Missão Diária;+1
+07/10/2024 23:45;Recompensa da Missão Diária;+1
+07/10/2024 23:45;Shopee Pega Brinde;+1
+07/10/2024 23:44;Shopee Pega Brinde;+1
+07/10/2024 23:44;Recompensa da Missão Diária;+1
+07/10/2024 23:43;Recompensas Diárias;+1
+07/10/2024 23:43;Check-in diario;+1
+05/10/2024 16:54;Par de Lâmpadas C6 Super Led 6000K H1 H3 H4 H7 H11 H13 H16 H27 HB3 HB4 12V a 24V Ming;+201
+05/10/2024 16:54;Recompensa da Missão Diária;+1
+05/10/2024 16:53;Recompensa da Missão Diária;+1
+05/10/2024 16:53;Recompensa da Missão Diária;+1
+05/10/2024 16:53;Shopee Pega Brinde;+1
+05/10/2024 16:52;Shopee Pega Brinde;+1
+05/10/2024 16:51;Recompensas Diárias;+1
+05/10/2024 16:51;Check-in diario;+1
+03/10/2024 14:13;Recompensa da Missão Diária;+1
+03/10/2024 14:12;Recompensa da Missão Diária;+1
+03/10/2024 14:12;Recompensa da Missão Diária;+1
+03/10/2024 14:11;Shopee Pega Brinde;+1
+03/10/2024 14:11;Recompensas Diárias;+2
+03/10/2024 14:11;Check-in diario;+1
+02/10/2024 22:36;Recompensa da Missão Diária;+1
+02/10/2024 22:35;Recompensa da Missão Diária;+1
+02/10/2024 22:35;Recompensa da Missão Diária;+1
+02/10/2024 22:33;Shopee Pega Brinde;+1
+02/10/2024 22:31;Recompensas Diárias;+2
+02/10/2024 22:27;Check-in diario;+5
+01/10/2024 13:40;Check-in diario;+1
+30/09/2024 23:38;Par de Lâmpadas C6 Super Led 6000K H1 H3 H4 H7 H11 H13 H16 H27 HB3 HB4 12V a 24V Ming;-668
+30/09/2024 23:32;Recompensa da Missão Diária;+1
+30/09/2024 23:30;Shopee Pega Brinde;+1
+30/09/2024 23:30;Shopee Pega Brinde;+1
+30/09/2024 23:30;Recompensa da Missão Diária;+1
+30/09/2024 23:30;Recompensas Diárias;+1
+30/09/2024 06:24;Check-in diario;+3
+29/09/2024 19:04;Shopee Pega Brinde;+1
+29/09/2024 19:03;Shopee Pega Brinde;+1
+29/09/2024 19:01;Recompensas Diárias;+5
+29/09/2024 19:01;Check-in diario;+1
+16/09/2024 16:50;Moedas pela avaliação;+10
+16/09/2024 16:41;Porta Ovos Suporte 4 Andares Rolante Para 30 Ovos Dispenser Armazena e organizador de Geladeira;+1.000
+13/09/2024 15:56;Check-in diario;+1
+11/09/2024 18:51;Recompensas Diárias;+1
+11/09/2024 18:50;Check-in diario;+1
+09/09/2024 21:58;Check-in diario;+3
+09/09/2024 00:44;Porta Ovos Suporte 4 Andares Rolante Para 30 Ovos Dispenser Armazena e organizador de Geladeira;-924
+08/09/2024 23:22;Check-in diario;+1
+05/09/2024 18:28;Moedas pela avaliação;+10
+29/08/2024 02:26;Check-in diario;+1
+24/08/2024 02:59;Moedas pela avaliação;+20
+21/08/2024 09:13;Check-in diario;+1
+18/08/2024 10:59;Medidor De Ph Digital Águas Doces Salgadas Aquários Piscinas Calibração Automática Portátil;+1.000
+17/08/2024 18:08;Moedas pela avaliação;+10
+17/08/2024 18:05;Antena Digital Hdtv Premium 3.5dbi Tomate Mta-3011;+1.000
+17/08/2024 04:33;Moedas pela avaliação;+10
+17/08/2024 04:31;Painel Guarda Sol Proteção Solar Uv Para-brisa Carro Protetor Solar Parabrisas Quebra Sol Para Painel De Carro;+1.000
+13/08/2024 13:45;Check-in diario;+3
+12/08/2024 15:03;Recompensas Diárias;+1
+12/08/2024 15:03;Check-in diario;+1
+10/08/2024 08:49;Recompensas Diárias;+1
+10/08/2024 08:49;Check-in diario;+1

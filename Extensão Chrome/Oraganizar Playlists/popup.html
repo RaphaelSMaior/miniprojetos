@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Organizador de Playlist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            width: 300px;
+            padding: 10px;
+        }
+        #result {
+            margin-top: 10px;
+            max-height: 300px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 5px;
+        }
+        .video {
+            margin: 5px;
+            padding: 5px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+            cursor: move;
+        }
+        .channel {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Organizador de Playlist</h1>
+    <button id="fetchVideos">Buscar Vídeos</button>
+    <div id="result"></div>
+
+    <script src="popup.js"></script>
+</body>
+</html>

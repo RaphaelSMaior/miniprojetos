@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "Organizador de Playlist YouTube",
+    "version": "1.0",
+    "description": "Organiza vídeos de uma playlist do YouTube por canal diretamente da página.",
+    "permissions": [
+      "tabs",
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      }
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://www.youtube.com/playlist?list=*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
